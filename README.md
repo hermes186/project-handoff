@@ -56,3 +56,7 @@ Use $project-handoff to receive this project, verify its current state, and wait
 
 The skill does not require a custom script or a specific AI agent product. It can be copied into any environment that supports the `SKILL.md` format.
 
+## ClawHub
+
+The skill is also available on [ClawHub](https://clawhub.ai/hermes186/project-handoff-2).
+
